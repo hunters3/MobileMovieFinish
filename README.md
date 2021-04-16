@@ -22,7 +22,7 @@ although it works.
 ![Alt Text](https://media.giphy.com/media/d6l46JAfGHaKu7kErL/giphy.gif)
 
 ### Notes
-Describe any challenges encountered while building the app.
+Most challenging part of the application was uploading the gif along with constraints of the pages.
 
 ### Open-source libraries used
 
